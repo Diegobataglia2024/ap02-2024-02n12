@@ -14,8 +14,8 @@ int main(void) {
     
   //Programa
   printf ("Mackenzie - FCI \n");
-  printf ("Algoritmos e ");
-  printf ("Prog. II \n");
-  printf ("Linguagem C\n");
+  printf ("CiÊncia da computação\n ");
+  printf ("Algoritmos e Prog. II \n");
+  printf ("Linguagem C\n"); 
   return 0;
 }
